@@ -1,5 +1,7 @@
+
+
 ### Hi there 👋
-I'm a 3-rd year student of Applied Mathematisc and progarmmer.
+My name is Krzysztof Jankowski and I'm a 3-rd year student of Applied Mathematisc and progarmmer. I'm mostly working with statistics, machine learning and data analysis, however in my free time I'm working with website development and game development.
 
 ### Currently using technologies
 
@@ -23,6 +25,15 @@ I'm a 3-rd year student of Applied Mathematisc and progarmmer.
     <img src="https://skillicons.dev/icons?i=git,docker,latex,blender" />
   </a>
 </p>
+
+### My actual projects
+*RPGmanager*
+When I was younger I spent a lot of time in front of the RTS games and I absolutelly felt in love with StarCraft. From the other side I really like board games and pen&paper RPGs. Few months ago I found interesting project of StarCraft pen&paper RPG and I decided to build session manager. Actually I call this project RPGmanager and it will be website supporting game sessions in StarCraft RPG. I would like to create a set of tools to support players and game master and to make the experience of playing more exciting without spending money for expensive assets and gadgets.
+
+The project has low priority, but when it achieve playable stage I will deploy it at github.
+
+
+
 <!--
 **Ziverael/Ziverael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
