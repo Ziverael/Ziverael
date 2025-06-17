@@ -30,18 +30,18 @@ I'm a passionate data engineer and researcher focused on building scalable data 
 ---
 ## 🔬 Researches & Projects
 
-### Algorithmic trading approaches on real time blockchain data
-My Master thesis. This is a project with automated blockchain scraping for trading bot. The project will be shared after my defense.
+### Algorithmic trading approaches on real-time blockchain data
+My Master's thesis. This is a project with automated blockchain scraping for a trading bot. The project will be shared after my defense.
 
-▶️![Presentation](https://github.com/Ziverael/Ziverael/master_thesis_presentaiton.pdf)
+▶️![Presentation](./master_thesis_presentaiton.pdf)
 
-### Monte Carlo Methods for processes with stochastic reseting
-My bachelor's thesis focuesed on analysis of application of stochastic reseting to different processes.
+### Monte Carlo Methods for processes with stochastic resetting
+My bachelor's thesis focused on the analysis of the application of stochastic resetting to different processes.
 
-▶️![Presentation](https://github.com/Ziverael/Ziverael/bachelors_thesis_presentation.pdf)
+▶️![Presentation](./bachelors_thesis_presentation.pdf)
 
 ### ![Simple_Arcade_Game](https://github.com/Ziverael/Simple_Arcade_Game)
-Pretty old project with arcade game in `PyGame`. This was a finall project for Programming course in Python.
+Pretty old project with an arcade game in `PyGame`. This was a final project for Pthe rogramming course in Python.
 
 
 ### ![ODE](https://github.com/Ziverael/RRwT-Project/blob/master/Projekt.ipynb)
@@ -52,7 +52,7 @@ Implementations of various numerical methods for ODE.
 ## 🌍 Connect With Me
 
 <p align="left">
-  <a href="krzysztof.jankowski.praca@gmail.com" target="_blank">
+  <a href="https://www.linkedin.com/in/krzysztof-jankowski-993011265/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" />
   </a>
 </p>
